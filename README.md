@@ -6,6 +6,7 @@ The following files are for the training of the model:
 * `sarcasm_detection.ipynb` - code that trains the model and tests the explainability
 * `clf.sav` - pretrained Logistic Regression model
 * `tfidf.sav` - pretrained TfIdf vectorization 
+* `transformers.h5` - pretrained transformers model with code reused from https://www.kaggle.com/code/quadeer15sh/transformers-for-text-classification 
 
 # Data
 Data source and attribution:
